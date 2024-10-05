@@ -1,6 +1,6 @@
-![cabecera](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint4/imagen/cabecera.png)
+![cabecera](https://github.com/ciberzerone/reto_Hackaton_Salo_d_Ocupacion_2024/blob/main/img/cabecera.jpg)
 
-![IT Academy Logo](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint2/imagen/logoIT.png)
+![IT Academy Logo](https://github.com/ciberzerone/reto_Hackaton_Salo_d_Ocupacion_2024/blob/main/img/logoOcupacion.jpg)
 
 
 [Ver script de SQL](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint3/sql/script.sql)
