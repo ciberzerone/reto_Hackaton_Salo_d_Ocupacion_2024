@@ -3,9 +3,8 @@
 ![IT Academy Logo](https://github.com/ciberzerone/reto_Hackaton_Salo_d_Ocupacion_2024/blob/main/img/logoOcupacion.jpg)
 
 
-[Ver script de SQL](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint3/sql/script.sql)
 
-[Ver Sprint 4 en PDF](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint4/pdf/sprint4.pdf)
+[Ver Desarrollo en PDF](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint4/pdf/sprint4.pdf)
 
 ![Nivel 1](https://github.com/ciberzerone/it_Academy_Data_Scientist/blob/main/sprint2/imagen/nivel1.png)
 
