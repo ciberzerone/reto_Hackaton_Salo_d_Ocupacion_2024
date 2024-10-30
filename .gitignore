@@ -1,0 +1,44 @@
+# Ignorar el entorno virtual
+.venv/
+venv/
+
+# Archivos de sistema de macOS
+.DS_Store
+
+# Archivos de sistema de Windows
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de Jupyter Notebook
+.ipynb_checkpoints/
+notebook/            # Ignorar toda la carpeta notebook
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos temporales y de lock
+*.log
+*.tmp
+*.lock
+
+# Archivos de salida de Python o compilados
+*.out
+*.pkl
+
+# Dependencias y paquetes descargados
+*.egg-info/
+.eggs/
+*.egg
+git log --oneline
+# Archivos de datos procesados y resultados
+outputs/
+data/processed/
+data/raw/
+*.csv
+
+# Archivos y modelos grandes (si los hay)
+outputs/models/*.pkl
