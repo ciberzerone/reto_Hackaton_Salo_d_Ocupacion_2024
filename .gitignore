@@ -35,7 +35,6 @@ __pycache__/
 *.egg
 git log --oneline
 # Archivos de datos procesados y resultados
-outputs/
 data/processed/
 data/raw/
 *.csv
